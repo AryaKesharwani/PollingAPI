@@ -1,7 +1,6 @@
 {
   "name": "polling_api",
   "version": "1.0.0",
-  "description": "skill Test 3 of coding ninjas using postman api's",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
